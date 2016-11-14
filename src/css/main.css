@@ -1,0 +1,59 @@
+body {
+    background: lightgray;
+}
+.calendarWrapper {
+    padding-top: 25px;
+    background: white;
+}
+.montName h3 {
+    margin-top: 5px;
+    text-align: center;
+}
+table {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+thead th {
+    text-align: center;
+}
+tbody tr{
+    height: 70px;
+    vertical-align: top;
+}
+
+tbody td {
+    width: 14%;
+    font-size: 1.2em;
+    text-align: right;
+}
+table, table td , thead th {
+    border: 1px solid lightgray;
+}
+tbody td span {
+    padding: 5px
+}
+.next-month {
+    color: lightgray;
+}
+.today {
+    color: white;
+    background: #4242f3;
+    display: inline-block;
+    border-radius: 15px;
+    line-height: 12px;
+}
+.event {
+    background: #0986f5;
+    color: white;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: left;
+}
+.empty-event {
+    min-height: 15px;
+    width: 102%;
+}
+
+
+
