@@ -9,7 +9,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="cal.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -332,7 +331,7 @@
       <updated>1477489473420</updated>
       <workItem from="1477489474924" duration="30720000" />
       <workItem from="1477998735213" duration="7351000" />
-      <workItem from="1478061971529" duration="89541000" />
+      <workItem from="1478061971529" duration="89679000" />
     </task>
     <task id="LOCAL-00001" summary="removed .idea">
       <created>1479134597048</created>
@@ -341,11 +340,18 @@
       <option name="project" value="LOCAL" />
       <updated>1479134597048</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="removed .idea">
+      <created>1479134814269</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1479134814269</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127612000" />
+    <option name="totallyTimeSpent" value="127750000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
