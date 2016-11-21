@@ -11,14 +11,10 @@ const WeekNames = () => {
         'Sat'
     ];
     const tHead = () => {
-
         let rowsHtml = weekNames.map((name)=> {
             return <th key={name}>{name}</th>;
         });
-
         return <tr>{rowsHtml}</tr>;
-
-
     };
     return (
         <thead>{tHead()}</thead>
